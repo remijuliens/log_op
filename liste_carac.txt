@@ -1,0 +1,9 @@
+pour tout, 2200, quantificateur
+existe, 2203, quantificateur
+n'existe pas, 2204, quantificateur
+élément de, 2208, général
+non élément de, 2208, général
+et logique, 2227, booléen
+ou logique, 2228, boolléen
+implication, 21D2, booléen
+équivalence, 21D4, booléen
